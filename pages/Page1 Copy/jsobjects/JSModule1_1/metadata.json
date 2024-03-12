@@ -1,0 +1,18 @@
+{
+  "moduleInstanceId": "Page1 Copy_JSModule1_1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1 Copy_JSModule1_1",
+  "unpublishedCollection": {
+    "name": "_$JSModule1_1$_JSModule1",
+    "pageId": "Page1 Copy",
+    "contextType": "PAGE",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "userPermissions": []
+  },
+  "id": "Page1 Copy__$JSModule1_1$_JSModule1",
+  "deleted": false,
+  "gitSyncId": "65f07eba7c585344b15b272b_65f07ec87c585344b15b275f"
+}
